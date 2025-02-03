@@ -1,3 +1,3 @@
 # DL_Lab7
 
-Built 2 different CNN models to predict which CNN performs better and gives better results
+Built a few different CNN models using the LeNet architechture applying on the freely available Minst dataset to conclude which CNN model performs the best for a specific task
